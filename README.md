@@ -10,3 +10,7 @@ Puedes abrir una consulta en la [pestaña de Issues](https://github.com/poounlu/
 2. Armar bien la consulta. Apoyarse en la posibilidad de adjuntar links y capturas.
 3. Incluir enlace al repositorio siempre
 4. La respuesta no será inmediata, pueden pasar varios dias. Planificar bien las consultas para que no frenen el avance.
+
+# Duración
+
+Los issues se cierran luego de **un mes** donde no existan interacciones por parte del estudiante.
